@@ -1,7 +1,7 @@
-1. Change the color of <p>Color</p> to "coral" color.
-2. Change the font size of <p>Font Size</p> to 2X the size of the root font size.
-3. Change the font weight of <p>Font Weight</p> to 900.
-4. Change the font family of <p>Font Family</p> to the Google font Caveat with regular (400) font weight.
+1. Change the color of 'p' tag Color to "coral" color.
+3. Change the font size of 'p' tag Font Size to 2X the size of the root font size.
+4. Change the font weight of 'p' tag Font Weight to 900.
+5. Change the font family of 'p' tag Font Family to the Google font Caveat with regular (400) font weight.
 Link: https://fonts.google.com/specimen/Caveat
-5. Change the <p>Text Align</p> to right align.
-6. Change the the root (html element) font size to 30px 
+6. Change the 'p' tag Text Align to right align.
+7. Change the the root (html element) font size to 30px 
