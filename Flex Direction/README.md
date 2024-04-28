@@ -1,0 +1,1 @@
+Use Flex properties to achieve the goal picture. 
