@@ -1,0 +1,1 @@
+Creating a Chess board using the "grid" property of display.
